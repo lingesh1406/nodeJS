@@ -22,3 +22,13 @@
 // const read1=fs.readFileSync('./write.txt','Utf-8'); // ==>using this read the created txt file 
 // console.log(read1);                      //    ||>(it is must!)
                                  
+
+
+
+// const fs=require('fs');
+// const write=fs.writeFileSync('./write.html','<h1>the lingesh</h1>');
+// console.log(write);
+
+const fs=require('fs');
+const abc=fs.readFileSync('./write.html','Utf-8');
+console.log(abc);
