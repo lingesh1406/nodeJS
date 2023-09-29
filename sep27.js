@@ -18,6 +18,12 @@
 
 
 
+
+//                    SYNCHORONOUS    
+
+
+
+
 // const fs=require('fs');                              // ==> used to import the file module 
 // const read1=fs.readFileSync('./write.txt','Utf-8'); // ==>using this read the created txt file 
 // console.log(read1);                      //    ||>(it is must!)
